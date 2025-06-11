@@ -3,7 +3,7 @@
 
 # Node App
 
-A simple and robust Node.js application designed to [briefly describe functionality, e.g., "handle REST API requests", "serve dynamic content", etc.].
+A simple and robust Node.js application designed.
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@ A simple and robust Node.js application designed to [briefly describe functional
 - Environment-based configuration
 - Easy to extend and integrate with databases or frontends
 
-## 📦 Installation
+## 📦 Installation 
 
 ```bash
 git clone https://github.com/yourusername/node-app.git
