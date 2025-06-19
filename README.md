@@ -1,5 +1,3 @@
-# node-lab
-
 
 # Node App
 
