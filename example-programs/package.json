@@ -1,0 +1,13 @@
+{
+  "name": "example-programs",
+  "version": "1.0.0",
+  "description": "A project to run example programs and gain experience with coding.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
