@@ -1,0 +1,33 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "A simple Node.js lab repository for experimenting with Node.js concepts, modules, and projects.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmolPatil-Git/node-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmolPatil-Git/node-lab/issues"
+  },
+  "homepage": "https://github.com/AmolPatil-Git/node-lab#readme",
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "jest": "^26.6.3"
+  }
+}
+

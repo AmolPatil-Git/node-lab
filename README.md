@@ -39,3 +39,19 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](LICENSE)
+
+## .gitignore
+
+To add a `.gitignore` file, run:
+
+```bash
+npx gitignore node
+```
+
+Or manually create a `.gitignore` file with common Node.js exclusions:
+
+```
+node_modules/
+.env
+dist/
+```
